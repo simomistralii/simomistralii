@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Simo 👋
 
-<!--
-**simomistralii/simomistralii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI features and everything linked to AI, including development.
 
-Here are some ideas to get you started:
+## What I'm into
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **AI agents and orchestration** - coding agents, multi-agent workflows, and CI automation
+- **Local AI** - running models on device, MLX on Apple Silicon, local speech and voice agents
+- **AI security** - LLM pentesting, red teaming, and privacy for AI workflows
+- **Automation** - n8n, MCP servers, and wiring AI into everyday tools
+
+## Selected original repositories
+
+- [AzureExplorer](https://github.com/simomistralii/AzureExplorer) - JavaScript web app with a [live demo](https://azure-explorer.vercel.app)
+- [datsplusPortal](https://github.com/simomistralii/datsplusPortal) - JavaScript web app with a [live demo](https://datsplus-portal.vercel.app)
+- [JavaScriptHorse](https://github.com/simomistralii/JavaScriptHorse) - horse racing betting game in JavaScript
+- [sailor-website](https://github.com/simomistralii/sailor-website) - website with a [live demo](https://sailor-alpha.netlify.app)
+
+## My fork collection
+
+Most of the repositories here are forks: a collection of AI tools, agents, and research. The original repositories are listed above.
