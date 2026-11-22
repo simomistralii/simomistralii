@@ -2,6 +2,10 @@
 
 AI features and everything linked to AI, including development.
 
+<picture>
+  <img src="/github-metrics.svg" alt="GitHub metrics">
+</picture>
+
 ## What I'm into
 
 - **AI agents and orchestration** - coding agents, multi-agent workflows, and CI automation
@@ -16,6 +20,6 @@ AI features and everything linked to AI, including development.
 - [JavaScriptHorse](https://github.com/simomistralii/JavaScriptHorse) - horse racing betting game in JavaScript
 - [sailor-website](https://github.com/simomistralii/sailor-website) - website with a [live demo](https://sailor-alpha.netlify.app)
 
-## My fork collection
+## Where most of these repos come from
 
-Most of the repositories here are forks: a collection of AI tools, agents, and research. The original repositories are listed above.
+Many repositories here started as forks of other people's projects: a collection of AI tools, agents, and research I keep for reference. Credit for that code stays with the original authors. My own original repositories are listed above.
